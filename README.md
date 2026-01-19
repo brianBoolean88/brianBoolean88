@@ -33,20 +33,6 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianBoolean88&layout=compact&theme=radical)
 
----
-
-## 📁 Featured Projects
-
-Here are some repositories I'm proud of. Full details in their READMEs. 👇
-
-| Project | Description |
-| ------- | ----------- |
-| 🚀 **Project 1** | Brief description & tech used |
-| 🎮 **Project 2** | Fun game or simulation |
-| 🧠 **AI/Backend App** | API, web or automation |
-| 📱 **Mobile App** | Flutter/React Native app | 
-
----
 
 ## 📫 Connect with Me
 
