@@ -2,7 +2,7 @@
 
 🎯 **Developer • UC Berkeley EECS Student • Full-Stack, AI, Games & Graphics**
 
-Welcome to my GitHub! I build engaging, innovative digital experiences — from immersive games to scalable web apps and AI-powered tools.  
+Welcome to my GitHub! I build engaging, innovative digital experiences, from immersive games to scalable web apps and AI-powered tools.  
 Check out my portfolio for highlights and links: https://brianportfoliowebsite.vercel.app/
 
 ---
@@ -17,7 +17,7 @@ Check out my portfolio for highlights and links: https://brianportfoliowebsite.v
 
 📚 Passionate about collaboration, learning new tech, and building things that make an impact.
 
-Outside tech, I value **fitness, productivity, and rest** — balance drives peak creativity.
+Outside tech, I value **fitness, productivity, and rest**. Balance drives peak creativity.
 
 ---
 
@@ -37,16 +37,14 @@ Outside tech, I value **fitness, productivity, and rest** — balance drives pea
 
 ## 📁 Featured Projects
 
-Here are some repositories I'm proud of — full details in their READMEs 👇
+Here are some repositories I'm proud of. Full details in their READMEs. 👇
 
 | Project | Description |
 | ------- | ----------- |
 | 🚀 **Project 1** | Brief description & tech used |
 | 🎮 **Project 2** | Fun game or simulation |
 | 🧠 **AI/Backend App** | API, web or automation |
-| 📱 **Mobile App** | Flutter/React Native app |
-
-> *Add links and details here — make each project pop with demo GIFs/screenshots if you can!*  
+| 📱 **Mobile App** | Flutter/React Native app | 
 
 ---
 
