@@ -44,9 +44,9 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 
 ## 🎯 What I’m Working On
 
-- Improving my **open source contributions**
+- Managing my YouTube channel
 - Building new tools & apps
-- Exploring **AI + graphics integration**
+- Continuing **AI Research**
 
 ---
 
