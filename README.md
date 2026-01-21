@@ -38,7 +38,7 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 
 👉 Portfolio & Resume Link: https://brianportfoliowebsite.vercel.app/  
 📩 Email: 88brianw@berkeley.edu
-🔗 Linkedin: [*linkedin.com/in/yourprofile*  ](https://www.linkedin.com/in/brian-wang-professional)
+🔗 Linkedin: [*linkedin.com/in/brian-wang-professional*](https://www.linkedin.com/in/brian-wang-professional)
 
 ---
 
