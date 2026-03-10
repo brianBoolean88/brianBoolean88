@@ -31,6 +31,7 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 
 ---
 
+Stats may not load as of 3/10/26. Third party service is not under my control.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianBoolean88&layout=compact&theme=radical)
 
 
