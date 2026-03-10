@@ -13,7 +13,7 @@ Check out my portfolio for highlights and links: https://brianportfoliowebsite.v
 - 💡 6+ years coding experience
 - 🎮 4+ years in game development
 - 🤖 AI, backend, full-stack & graphics expertise  
-- 🔧 Comfortable with modern stacks (Next.js, Flask, Unity, Flutter, etc.)
+- 🔧 Comfortable with modern stacks (Next.js, Flask, Unity, Luau Flutter, etc.)
 
 📚 Passionate about collaboration, learning new tech, and building things that make an impact.
 
@@ -27,7 +27,7 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Flask, PostgreSQL, AWS  
 **Mobile:** Flutter  
-**Game Dev & Graphics:** Unity, Mediapipe, AI integrations
+**Game Dev & Graphics:** Unity, RBLX Studio, Mediapipe, AI integrations
 
 ---
 
@@ -45,7 +45,8 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 ## 🎯 What I’m Working On
 
 - Managing my YouTube channel
-- Building new tools & apps
+- Creating a business/Studio on Roblox
+- Starting up passion project on Unity & Posting devlogs (Early early phase)
 - Continuing **AI Research**
 
 ---
