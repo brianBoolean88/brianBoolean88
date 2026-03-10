@@ -11,7 +11,7 @@ Check out my portfolio for highlights and links: https://brianportfoliowebsite.v
 
 👨‍💻 I'm a programmer with:
 - 💡 6+ years coding experience
-- 🎮 4+ years in game development
+- 🎮 5+ years in game development
 - 🤖 AI, backend, full-stack & graphics expertise  
 - 🔧 Comfortable with modern stacks (Next.js, Flask, Unity, Luau Flutter, etc.)
 
@@ -32,6 +32,7 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 ---
 
 Stats may not load as of 3/10/26. Third party service is not under my control.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianBoolean88&layout=compact&theme=radical)
 
 
