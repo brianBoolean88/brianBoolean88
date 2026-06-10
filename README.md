@@ -24,9 +24,13 @@ Outside tech, I value **fitness, productivity, and rest**. Balance drives peak c
 ## 🛠 Tech I Work With
 
 **Languages:** JavaScript, Python, C++, Dart  
+
 **Frontend:** React, Next.js, Tailwind CSS  
+
 **Backend:** Flask, PostgreSQL, AWS  
-**Mobile:** Flutter, React Native / Expo
+
+**Mobile:** Flutter, React Native, Expo  
+
 **Game Dev & Graphics:** Unity, RBLX Studio, Mediapipe, AI integrations
 
 ---
